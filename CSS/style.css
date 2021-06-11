@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+/* BAR-TOP SETTINGS */
 .bar-top{background-color: #333; color: #fff; overflow:hidden;}
 .bar-top > ul{list-style-type: none;}
 .bar-top li{float: left; padding: 20px 20px;}
